@@ -1,2 +1,0 @@
-MainPackage=C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x86\Debug\App Students (Package)_1.0.0.0_x86_Debug.msix
-SymbolPackage=C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\obj\x86\Debug\Symbols\App Students (Package)_1.0.0.0_x86_Debug.appxsym

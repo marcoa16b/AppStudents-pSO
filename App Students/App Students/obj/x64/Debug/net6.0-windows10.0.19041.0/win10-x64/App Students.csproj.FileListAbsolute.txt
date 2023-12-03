@@ -11,7 +11,6 @@ C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App 
 C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\App Students.runtimeconfig.json
 C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\App Students.dll
 C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\App Students.pdb
-C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\App Students.pri
 C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\Isopoh.Cryptography.Argon2.dll
 C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\Isopoh.Cryptography.Blake2b.dll
 C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\Isopoh.Cryptography.SecureArray.dll
@@ -320,3 +319,7 @@ C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App 
 C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\App Students.sourcelink.json
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x64\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
