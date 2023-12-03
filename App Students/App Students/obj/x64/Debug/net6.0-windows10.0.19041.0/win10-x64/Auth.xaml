@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Page
+    x:Class="App_Students.Auth"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App_Students"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource NdvBackground}">
+
+    <Grid>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <TabView SelectedIndex="0" MinHeight="450" MinWidth="400" TabWidthMode="SizeToContent" Margin="8 20 8 0" IsAddTabButtonVisible="False">
+                <TabView.TabItems>
+                    <TabViewItem Header="Iniciar sesión" IsClosable="False">
+                        <TabViewItem.IconSource>
+                            <FontIconSource Glyph="&#xEE57;" Foreground="{ThemeResource SystemAccentColor}" />
+                        </TabViewItem.IconSource>
+
+                        <StackPanel Orientation="Vertical" HorizontalAlignment="Stretch" VerticalAlignment="Top">
+                            <TextBlock Text="Iniciar sesión" FontSize="30" Margin="0 10 0 10" />
+                            <TextBox x:ConnectionId='9' x:Name="InputEmail" Header="Ingrese su email:" PlaceholderText="username@email.com" />
+                            <PasswordBox x:ConnectionId='10' x:Name="InputPassword" Header="Ingrese su contraseña:" PlaceholderText="Supersecret" />
+                            <Button x:ConnectionId='11' x:Name="ButtonLogin"                           Margin="0 10 0 10">Iniciar sesión</Button>
+                        </StackPanel>
+                    </TabViewItem>
+
+                    <TabViewItem Header="Registrarme" IsClosable="False">
+                        <TabViewItem.IconSource>
+                            <FontIconSource Glyph="&#xEE57;" Foreground="{ThemeResource SystemAccentColor}" />
+                        </TabViewItem.IconSource>
+
+                        <StackPanel Orientation="Vertical" HorizontalAlignment="Stretch" VerticalAlignment="Top">
+                            <TextBlock Text="Registro" FontSize="30" Margin="0 10 0 10" />
+                            <TextBox x:ConnectionId='2' x:Name="InputName" Header="Ingrese su nombre:" PlaceholderText="John" />
+                            <TextBox x:ConnectionId='3' x:Name="InputEmailRegister" Header="Ingrese su email:" PlaceholderText="john.doe@email.com" Margin="0 0 0 20" />
+                            <PasswordBox x:ConnectionId='4' x:Name="InputPasswordRegister"                                                           Header="Ingrese su contraseña:" PlaceholderText="Supersecret" />
+                            <TextBlock x:ConnectionId='5' x:Name="PasswordSecurity" />
+                            <PasswordBox x:ConnectionId='6' x:Name="InputPasswordRegisterConfirm"                                                                  Header="Ingrese su contraseña:" PlaceholderText="Supersecret" />
+                            <TextBlock x:ConnectionId='7' x:Name="PasswordConfirm" />
+                            <Button x:ConnectionId='8' x:Name="ButtonRegister"                              Margin="0 10 0 10">Registrarme</Button>
+                        </StackPanel>
+                    </TabViewItem>
+
+                </TabView.TabItems>
+            </TabView>
+        </StackPanel>
+    </Grid>
+</Page>
+

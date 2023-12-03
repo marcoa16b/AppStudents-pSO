@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Page
+    x:Class="App_Students.Home"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App_Students"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource NdvBackground}">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <NavigationView x:ConnectionId='2' x:Name="Navigation"
+                Grid.Row="0"
+                PaneDisplayMode="Left"
+                IsTabStop="False"
+                                                              
+                IsSettingsVisible="False"
+                Background="{ThemeResource NdvBackgroundSecondary}">
+            <!--#region : Seccion de navedación (Sidebar) -->
+            <NavigationView.MenuItems>
+                <NavigationViewItem Content="Mis datos personales" Tag="MyData" Icon="People" />
+                <NavigationViewItem Content="Mis cursos" Tag="Courses" Icon="Favorite" />
+                <!--<NavigationViewItem Content="Matricular cursos" Tag="NewCourses" Icon="Library" /> -->
+            </NavigationView.MenuItems>
+            <NavigationView.FooterMenuItems>
+                <NavigationViewItem Content="Ajustes" Tag="Settings">
+                    <NavigationViewItem.Icon>
+                        <FontIcon Glyph="&#xE713;" />
+                    </NavigationViewItem.Icon>
+                </NavigationViewItem>
+                <NavigationViewItem Content="Cerrar sesión" Tag="SignOut">
+                    <NavigationViewItem.Icon>
+                        <FontIcon Glyph="&#xF3B1;" />
+                    </NavigationViewItem.Icon>
+                </NavigationViewItem>
+            </NavigationView.FooterMenuItems>
+            <!--#endregion -->
+            <Frame x:ConnectionId='3' x:Name="MyHomeFrame" />
+            <!-- <Frame x:Name="HomeFrame" /> -->
+        </NavigationView>
+
+    </Grid>
+</Page>
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page
+    x:Class="App_Students.Courses"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App_Students"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource NdvBackground}">
+
+    <Grid>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Left" VerticalAlignment="Top" Padding="20">
+
+            <TextBlock Text="Cursos matriculados" FontSize="24" Margin="0,10,0,10" />
+            <TextBlock x:Name="Curso1" Text="" FontSize="16" />
+            <TextBlock x:Name="Curso2" Text="" FontSize="16" />
+            <TextBlock x:Name="Curso3" Text="" FontSize="16" />
+            <!--<ListView x:Name="UserCourses" MaxHeight="150" ItemsSource="{Binding UserCoursesList}" />-->
+
+            <TextBlock Text="Matricular nuevos cursos" FontSize="20" Margin="0,10,0,10" />
+            <TextBox x:Name="CourseCode" Header="Filtrar cursos por codigo" TextChanging="CourseCode_TextChanging" PlaceholderText="Codigo del curso" Margin="0,10,0,10" />
+            <ListView x:Name="AllCourses" MaxHeight="150" />
+            <Button x:Name="Enroll" Content="Matricular curso" Click="Enroll_Click" Margin="0,10,0,10" />
+            <Button x:Name="Delete" Content="Borrar cursos matriculados" Click="Delete_Click" Margin="0,10,0,10" Foreground="Red" />
+
+        </StackPanel>
+    </Grid>
+</Page>

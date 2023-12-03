@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "jaIX1Am08GBpI4dHgT1NB94fdUihFzZS+T1DDHVV8PGtGJ0pWScQJ7U5q56UL3CyS65GwVUH8Zuc97hEHmNuAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\50684\\dev\\c-sharp\\UNED\\Sistemas Operativos\\ProyectoSO\\App Students\\App Students\\App Students.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\50684\\.nuget\\packages\\isopoh.cryptography.argon2\\2.0.0\\isopoh.cryptography.argon2.2.0.0.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\isopoh.cryptography.blake2b\\2.0.0\\isopoh.cryptography.blake2b.2.0.0.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\isopoh.cryptography.securearray\\2.0.0\\isopoh.cryptography.securearray.2.0.0.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.755\\microsoft.windows.sdk.buildtools.10.0.22621.755.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\microsoft.windowsappsdk\\1.4.230913002\\microsoft.windowsappsdk.1.4.230913002.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\sqlitepclraw.provider.dynamic_cdecl\\2.0.4\\sqlitepclraw.provider.dynamic_cdecl.2.0.4.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.25\\microsoft.netcore.app.runtime.win-x86.6.0.25.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.31\\microsoft.windows.sdk.net.ref.10.0.19041.31.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.25\\microsoft.aspnetcore.app.runtime.win-x86.6.0.25.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\microsoft.netcore.app.runtime.win-arm64\\6.0.25\\microsoft.netcore.app.runtime.win-arm64.6.0.25.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.25\\microsoft.aspnetcore.app.runtime.win-x64.6.0.25.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-arm64\\6.0.25\\microsoft.windowsdesktop.app.runtime.win-arm64.6.0.25.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.25\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.25.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-arm64\\6.0.25\\microsoft.aspnetcore.app.runtime.win-arm64.6.0.25.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.25\\microsoft.netcore.app.runtime.win-x64.6.0.25.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.25\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

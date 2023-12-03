@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "w7LsHb+jP/NWAkfnp3lduVKMjHAw3X3kLzy4143LmaSWbQ3Kx1HAQzaQ/ajPeQ2/MPMx9QYLlFe0ISazmKPTJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\50684\\dev\\c-sharp\\UNED\\Sistemas Operativos\\ProyectoSO\\App Students\\App Students (Package)\\App Students (Package).wapproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\50684\\.nuget\\packages\\isopoh.cryptography.argon2\\2.0.0\\isopoh.cryptography.argon2.2.0.0.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\isopoh.cryptography.blake2b\\2.0.0\\isopoh.cryptography.blake2b.2.0.0.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\isopoh.cryptography.securearray\\2.0.0\\isopoh.cryptography.securearray.2.0.0.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\microsoft.windows.sdk.buildtools\\10.0.22621.755\\microsoft.windows.sdk.buildtools.10.0.22621.755.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\microsoft.windowsappsdk\\1.4.230913002\\microsoft.windowsappsdk.1.4.230913002.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\sqlite-net-pcl\\1.8.116\\sqlite-net-pcl.1.8.116.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\sqlitepclraw.bundle_green\\2.0.4\\sqlitepclraw.bundle_green.2.0.4.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\sqlitepclraw.core\\2.0.4\\sqlitepclraw.core.2.0.4.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.0.4\\sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.0.4\\sqlitepclraw.provider.e_sqlite3.2.0.4.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\50684\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

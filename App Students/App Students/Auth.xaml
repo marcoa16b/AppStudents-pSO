@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Page
+    x:Class="App_Students.Auth"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App_Students"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource NdvBackground}">
+
+    <Grid>
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Top">
+            <TabView SelectedIndex="0" MinHeight="450" MinWidth="400" TabWidthMode="SizeToContent" Margin="8 20 8 0" IsAddTabButtonVisible="False">
+                <TabView.TabItems>
+                    <TabViewItem Header="Iniciar sesión" IsClosable="False">
+                        <TabViewItem.IconSource>
+                            <FontIconSource Glyph="&#xEE57;" Foreground="{ThemeResource SystemAccentColor}" />
+                        </TabViewItem.IconSource>
+
+                        <StackPanel Orientation="Vertical" HorizontalAlignment="Stretch" VerticalAlignment="Top">
+                            <TextBlock Text="Iniciar sesión" FontSize="30" Margin="0 10 0 10" />
+                            <TextBox x:Name="InputEmail" Header="Ingrese su email:" PlaceholderText="username@email.com" />
+                            <PasswordBox x:Name="InputPassword" Header="Ingrese su contraseña:" PlaceholderText="Supersecret" />
+                            <Button x:Name="ButtonLogin" Click="ButtonLogin_Click" Margin="0 10 0 10">Iniciar sesión</Button>
+                        </StackPanel>
+                    </TabViewItem>
+
+                    <TabViewItem Header="Registrarme" IsClosable="False">
+                        <TabViewItem.IconSource>
+                            <FontIconSource Glyph="&#xEE57;" Foreground="{ThemeResource SystemAccentColor}" />
+                        </TabViewItem.IconSource>
+
+                        <StackPanel Orientation="Vertical" HorizontalAlignment="Stretch" VerticalAlignment="Top">
+                            <TextBlock Text="Registro" FontSize="30" Margin="0 10 0 10" />
+                            <TextBox x:Name="InputName" Header="Ingrese su nombre:" PlaceholderText="John" />
+                            <TextBox x:Name="InputEmailRegister" Header="Ingrese su email:" PlaceholderText="john.doe@email.com" Margin="0 0 0 20" />
+                            <PasswordBox x:Name="InputPasswordRegister" PasswordChanging="InputPasswordRegister_PasswordChanging" Header="Ingrese su contraseña:" PlaceholderText="Supersecret" />
+                            <TextBlock x:Name="PasswordSecurity" />
+                            <PasswordBox x:Name="InputPasswordRegisterConfirm" PasswordChanging="InputPasswordRegisterConfirm_PasswordChanging" Header="Ingrese su contraseña:" PlaceholderText="Supersecret" />
+                            <TextBlock x:Name="PasswordConfirm" />
+                            <Button x:Name="ButtonRegister" Click="ButtonRegister_Click" Margin="0 10 0 10">Registrarme</Button>
+                        </StackPanel>
+                    </TabViewItem>
+
+                </TabView.TabItems>
+            </TabView>
+        </StackPanel>
+    </Grid>
+</Page>

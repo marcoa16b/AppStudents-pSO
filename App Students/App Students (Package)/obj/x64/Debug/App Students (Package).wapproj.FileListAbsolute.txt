@@ -1,0 +1,284 @@
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App.xbf
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\Auth.xbf
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\Courses.xbf
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\Home.xbf
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\MainWindow.xbf
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\MyData.xbf
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\Settings.xbf
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\SignOut.xbf
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\App Students.exe
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\App Students.deps.json
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\App Students.runtimeconfig.json
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\App Students.pdb
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.IO.Compression.Native.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-core-console-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-core-console-l1-2-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-core-datetime-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-core-debug-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-core-errorhandling-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-core-fibers-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-core-file-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-core-file-l1-2-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-core-file-l2-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-core-handle-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-core-heap-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-core-interlocked-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-core-libraryloader-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-core-localization-l1-2-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-core-memory-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-core-namedpipe-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-core-processenvironment-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-core-processthreads-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-core-processthreads-l1-1-1.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-core-profile-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-core-rtlsupport-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-core-string-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-core-synch-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-core-synch-l1-2-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-core-sysinfo-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-core-timezone-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-core-util-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-crt-conio-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-crt-convert-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-crt-environment-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-crt-filesystem-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-crt-heap-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-crt-locale-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-crt-math-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-crt-multibyte-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-crt-private-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-crt-process-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-crt-runtime-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-crt-stdio-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-crt-string-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-crt-time-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\api-ms-win-crt-utility-l1-1-0.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\clretwrc.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\clrjit.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\coreclr.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\createdump.exe
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\dbgshim.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\hostfxr.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\hostpolicy.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\mscordaccore.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\mscordaccore_amd64_amd64_6.0.2523.51912.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\mscordbi.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\mscorrc.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\msquic.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\ucrtbase.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\e_sqlite3.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\Microsoft.CSharp.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\Microsoft.VisualBasic.Core.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\Microsoft.VisualBasic.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\Microsoft.Win32.Primitives.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\Microsoft.Win32.Registry.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.AppContext.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Buffers.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Collections.Concurrent.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Collections.Immutable.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Collections.NonGeneric.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Collections.Specialized.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Collections.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.ComponentModel.Annotations.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.ComponentModel.DataAnnotations.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.ComponentModel.EventBasedAsync.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.ComponentModel.Primitives.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.ComponentModel.TypeConverter.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.ComponentModel.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Configuration.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Console.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Core.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Data.Common.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Data.DataSetExtensions.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Data.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Diagnostics.Contracts.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Diagnostics.Debug.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Diagnostics.DiagnosticSource.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Diagnostics.FileVersionInfo.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Diagnostics.Process.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Diagnostics.StackTrace.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Diagnostics.Tools.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Diagnostics.TraceSource.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Diagnostics.Tracing.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Drawing.Primitives.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Drawing.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Dynamic.Runtime.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Formats.Asn1.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Globalization.Calendars.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Globalization.Extensions.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Globalization.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.IO.Compression.Brotli.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.IO.Compression.FileSystem.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.IO.Compression.ZipFile.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.IO.Compression.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.IO.FileSystem.AccessControl.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.IO.FileSystem.DriveInfo.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.IO.FileSystem.Primitives.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.IO.FileSystem.Watcher.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.IO.FileSystem.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.IO.IsolatedStorage.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.IO.MemoryMappedFiles.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.IO.Pipes.AccessControl.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.IO.Pipes.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.IO.UnmanagedMemoryStream.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.IO.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Linq.Expressions.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Linq.Parallel.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Linq.Queryable.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Linq.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Memory.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Net.Http.Json.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Net.Http.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Net.HttpListener.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Net.Mail.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Net.NameResolution.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Net.NetworkInformation.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Net.Ping.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Net.Primitives.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Net.Quic.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Net.Requests.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Net.Security.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Net.ServicePoint.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Net.Sockets.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Net.WebClient.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Net.WebHeaderCollection.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Net.WebProxy.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Net.WebSockets.Client.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Net.WebSockets.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Net.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Numerics.Vectors.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Numerics.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.ObjectModel.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Private.CoreLib.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Private.DataContractSerialization.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Private.Uri.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Private.Xml.Linq.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Private.Xml.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Reflection.DispatchProxy.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Reflection.Emit.ILGeneration.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Reflection.Emit.Lightweight.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Reflection.Emit.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Reflection.Extensions.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Reflection.Metadata.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Reflection.Primitives.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Reflection.TypeExtensions.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Reflection.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Resources.Reader.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Resources.ResourceManager.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Resources.Writer.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Runtime.Extensions.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Runtime.Handles.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Runtime.InteropServices.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Runtime.Intrinsics.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Runtime.Loader.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Runtime.Numerics.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Runtime.Serialization.Formatters.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Runtime.Serialization.Json.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Runtime.Serialization.Primitives.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Runtime.Serialization.Xml.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Runtime.Serialization.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Runtime.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Security.AccessControl.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Security.Claims.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Security.Cryptography.Algorithms.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Security.Cryptography.Cng.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Security.Cryptography.Csp.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Security.Cryptography.Encoding.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Security.Cryptography.OpenSsl.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Security.Cryptography.Primitives.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Security.Cryptography.X509Certificates.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Security.Principal.Windows.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Security.Principal.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Security.SecureString.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Security.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.ServiceModel.Web.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.ServiceProcess.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Text.Encoding.CodePages.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Text.Encoding.Extensions.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Text.Encoding.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Text.Encodings.Web.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Text.Json.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Text.RegularExpressions.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Threading.Channels.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Threading.Overlapped.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Threading.Tasks.Dataflow.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Threading.Tasks.Extensions.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Threading.Tasks.Parallel.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Threading.Tasks.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Threading.Thread.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Threading.ThreadPool.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Threading.Timer.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Threading.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Transactions.Local.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Transactions.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.ValueTuple.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Web.HttpUtility.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Web.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Windows.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Xml.Linq.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Xml.ReaderWriter.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Xml.Serialization.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Xml.XDocument.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Xml.XPath.XDocument.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Xml.XPath.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Xml.XmlDocument.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Xml.XmlSerializer.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.Xml.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\System.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\WindowsBase.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\mscorlib.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\netstandard.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\Isopoh.Cryptography.Argon2.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\Isopoh.Cryptography.Blake2b.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\Isopoh.Cryptography.SecureArray.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\Microsoft.WinUI.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\Microsoft.Windows.System.Projection.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\Microsoft.Windows.Widgets.Providers.Projection.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\SQLite-net.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\SQLitePCLRaw.batteries_v2.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\SQLitePCLRaw.nativelibrary.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\SQLitePCLRaw.core.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\App Students.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\Microsoft.Windows.SDK.NET.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students\WinRT.Runtime.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\resources.pri
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\AppxManifest.xml
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\bin\x64\Debug\App Students (Package).build.appxrecipe
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\obj\x64\Debug\App Students (Package).wapproj.AssemblyReference.cache
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\obj\x64\Debug\App Students (Package).wapproj.CoreCompileInputs.cache
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\obj\x64\Debug\App Students.pri.xml
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\obj\x64\Debug\priconfig.xml
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\obj\x64\Debug\priconfig.xml.intermediate
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\obj\x64\Debug\unfiltered.layout.resfiles
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\obj\x64\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\obj\x64\Debug\filtered.layout.resfiles
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\obj\x64\Debug\filtered.layout.resfiles.intermediate
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\obj\x64\Debug\excluded.layout.resfiles
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\obj\x64\Debug\excluded.layout.resfiles.intermediate
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\obj\x64\Debug\resources.resfiles
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\obj\x64\Debug\resources.resfiles.intermediate
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\obj\x64\Debug\pri.resfiles
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\obj\x64\Debug\pri.resfiles.intermediate
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\obj\x64\Debug\qualifiers.txt
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\obj\x64\Debug\qualifiers.txt.intermediate
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\obj\x64\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\obj\x64\Debug\ProjectArchitectures.txt
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students (Package)\obj\x64\Debug\App Students (Package).wapproj.LastBuild.txt

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="App Students" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://App Students/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Auth.xbf" uri="ms-resource://App Students/Files/Auth.xbf">
+				<Candidate type="Path">
+					<Value>Auth.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Courses.xbf" uri="ms-resource://App Students/Files/Courses.xbf">
+				<Candidate type="Path">
+					<Value>Courses.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Home.xbf" uri="ms-resource://App Students/Files/Home.xbf">
+				<Candidate type="Path">
+					<Value>Home.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainWindow.xbf" uri="ms-resource://App Students/Files/MainWindow.xbf">
+				<Candidate type="Path">
+					<Value>MainWindow.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MyData.xbf" uri="ms-resource://App Students/Files/MyData.xbf">
+				<Candidate type="Path">
+					<Value>MyData.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Settings.xbf" uri="ms-resource://App Students/Files/Settings.xbf">
+				<Candidate type="Path">
+					<Value>Settings.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="SignOut.xbf" uri="ms-resource://App Students/Files/SignOut.xbf">
+				<Candidate type="Path">
+					<Value>SignOut.xbf</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

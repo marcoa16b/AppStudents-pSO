@@ -1,0 +1,8 @@
+﻿{
+  "profiles": {
+    "App Students": {
+      "commandName": "MsixPackage",
+      "nativeDebugging": false
+    }
+  }
+}

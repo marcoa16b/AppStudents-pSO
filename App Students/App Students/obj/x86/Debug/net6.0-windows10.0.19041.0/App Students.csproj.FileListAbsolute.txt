@@ -1,0 +1,114 @@
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\App.xbf
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\MainWindow.xbf
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\App Students.exe
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\App Students.deps.json
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\App Students.runtimeconfig.json
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\App Students.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\App Students.pdb
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\App Students.pri
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\Microsoft.WinUI.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\Microsoft.Windows.System.Projection.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\Microsoft.Windows.Widgets.Providers.Projection.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\runtimes\win10-arm64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\runtimes\win10-x86\native\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\Microsoft.Windows.SDK.NET.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\WinRT.Runtime.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\App Students.csproj.AssemblyReference.cache
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\App.g.i.cs
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\App.g.cs
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\MainWindow.g.i.cs
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\MainWindow.g.cs
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\XamlTypeInfo.g.cs
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\App.xaml
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\MainWindow.xaml
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\App.xbf
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\MainWindow.xbf
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\XamlSaveStateFile.xml
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\App Students.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\App Students.AssemblyInfoInputs.cache
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\App Students.AssemblyInfo.cs
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\App Students.csproj.CoreCompileInputs.cache
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\App Students.csproj.CopyComplete
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\App Students.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\refint\App Students.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\App Students.pdb
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\App Students.genruntimeconfig.cache
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\ref\App Students.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\priconfig.xml
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\priconfig.xml.intermediate
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\unfiltered.layout.resfiles
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\unfiltered.layout.resfiles.intermediate
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\filtered.layout.resfiles
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\filtered.layout.resfiles.intermediate
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\excluded.layout.resfiles
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\excluded.layout.resfiles.intermediate
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\resources.resfiles
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\resources.resfiles.intermediate
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\pri.resfiles
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\pri.resfiles.intermediate
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\qualifiers.txt
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\qualifiers.txt.intermediate
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\MultipleQualifiersPerDimensionFound.txt
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\Isopoh.Cryptography.Argon2.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\Isopoh.Cryptography.Blake2b.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\Isopoh.Cryptography.SecureArray.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\SQLite-net.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\SQLitePCLRaw.core.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\Auth.xbf
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\Auth.g.i.cs
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\Auth.g.cs
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\Auth.xaml
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\Auth.xbf
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\Courses.xbf
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\Home.xbf
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\MyData.xbf
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\Settings.xbf
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\bin\x86\Debug\net6.0-windows10.0.19041.0\SignOut.xbf
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\Courses.g.i.cs
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\Courses.g.cs
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\Home.g.i.cs
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\Home.g.cs
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\MyData.g.i.cs
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\MyData.g.cs
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\Settings.g.i.cs
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\Settings.g.cs
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\SignOut.g.i.cs
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\SignOut.g.cs
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\Courses.xaml
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\Home.xaml
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\MyData.xaml
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\Settings.xaml
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\SignOut.xaml
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\Courses.xbf
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\Home.xbf
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\MyData.xbf
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\Settings.xbf
+C:\Users\50684\dev\c-sharp\UNED\Sistemas Operativos\ProyectoSO\App Students\App Students\obj\x86\Debug\net6.0-windows10.0.19041.0\SignOut.xbf
